@@ -1,0 +1,162 @@
+#title {
+    font-size:40px;
+}
+h1 {
+    display:flex;
+    justify-content:center;
+}
+body {
+    background-color:black;
+}    
+    
+#ch {
+    width:48%;
+}
+#ch_type {
+    width:48%;
+}
+button {
+    cursor:pointer;
+}
+p {
+    color:white;
+}
+h1 {
+    color:white;
+    position:center;
+}
+h3 {
+    color:white;
+}
+.int {
+    color:rgb(155,0,255);
+}
+.agl {
+    color:rgb(0,8,225);
+}
+.teq {
+    color:rgb(19,255,0);
+}
+.str {
+    color:rgb(255,0,0);
+}
+.phy {
+    color:rgb(225,128,0);
+}
+button {
+    cursor: pointer;
+}
+#type_list {
+    color:white;
+}
+#page_stuffs {
+    border: white 5px solid;
+}
+#LR_Button {
+    width: 100px;
+    height: 100px;
+}
+.thumbnail {
+    height:10%;
+    width:10%;
+}
+.type {
+    display: inline;
+}
+#list1 {
+    background-image: url("https://i.dlpng.com/static/png/4129886_thumb.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100px;
+}
+#list2 {
+    background-image: url("http://vignette1.wikia.nocookie.net/dbz-dokkanbattle/images/8/80/UR_eclair.png/revision/latest?cb=20150901213355");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+#list3 {
+    background-image: url("http://vignette4.wikia.nocookie.net/dbz-dokkanbattle/images/7/71/SSR_eclair.png/revision/latest?cb=20150901213345");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+#list4 {
+    background-image: url("https://www.dokkan-battle.fr/wp-content/uploads/2017/04/SR_eclair.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+#list5 {
+    background-image: url("https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/f/f4/R_eclair.png/revision/latest?cb=20150901213316");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+#list6 {
+    background-image: url("https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/2/22/N_eclair.png/revision/latest?cb=20150901213306");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+#UR_Button {
+    width: 100px;
+    height: 100px;
+}
+#SSR_Button {
+    width: 100px;
+    height: 100px;
+}
+#SR_Button {
+    width: 100px;
+    height: 100px;
+}
+#R_Button {
+    width: 100px;
+    height: 100px;
+}
+#N_Button {
+    width: 100px;
+    height: 100px;
+}
+#001 {
+    background-color: lightgray;
+    border: 5px solid white;
+    position: center;
+}
+li {
+    border: 5px solid gray;
+}
+#LRComing {
+    position:center;
+}
+#teqbroly {
+    background: url("https://dbz.s3.amazonaws.com/v2/global/character/card/1016870/card_1016870_effect.png");
+    background-size: 100%;
+}
+#teqbroly1 {
+    background: url("https://dbz.s3.amazonaws.com/v2/global/character/card/4016880/card_4016880_effect.png");
+    background-size: 100%;
+}
+#phyandroids {
+    background: url("https://dbz.s3.amazonaws.com/v2/global/character/card/1018030/card_1018030_bg.png0");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#phyandroids1 {
+    background: url("https://dbz.s3.amazonaws.com/v2/global/character/card/4018040/card_4018040_bg.png");
+    background-size: 100%;
+}
+#intvegito {
+    background: url("https://dbz.s3.amazonaws.com/v2/global/character/card/1012900/card_1012900_bg.png");
+    background-size: 100%;
+}
+#intvegito1 {
+    background: url("https://dbz.s3.amazonaws.com/v2/global/character/card/1012900/card_1012900_bg.png");
+    background-size: 100%;
+}
+a {
+    font-size: 30px;
+}
+
+
